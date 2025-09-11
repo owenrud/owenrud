@@ -14,6 +14,8 @@ Fun fact:
 - I type faster in english rather than my native langauge(Indonesia)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=owenrud&show_icons=true&theme=cobalt)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=owenrud&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **owenrud/owenrud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -14,7 +14,8 @@ Fun fact:
 - I type faster in english rather than my native langauge(Indonesia)
 
 ## Proficient in these tools:
-![Test Image 1](C+.png)<img src="https://github.com/owenrud/owenrud/blob/main/CSharp.png" width="150" height="280">![Test Image 3](Java.png)![Test Image 4](MySQL.png)![Test Image 5](logoFlutter.png)
+<img src="https://github.com/owenrud/owenrud/blob/main/C+.png" width="150" height="150"><img src="https://github.com/owenrud/owenrud/blob/main/CSharp.png" width="150" height="150">
+<img src="https://github.com/owenrud/owenrud/blob/main/Java.png" width="150" height="150"><img src="https://github.com/owenrud/owenrud/blob/main/MySQL.png" width="150" height="150"><img src="https://github.com/owenrud/owenrud/blob/main/logoFlutter.png" width="150" height="150">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=owenrud&show_icons=true&include_all_commits=true&theme=cobalt) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=owenrud&layout=compact&include_all_commits=true)
 

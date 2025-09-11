@@ -15,16 +15,16 @@ Fun fact:
 
 ## Proficient in these tools:
 <p align="center">
-  <img src="https://github.com/owenrud/owenrud/blob/main/C+.png" width="100" height="100" style="padding:10px;">
-  <img src="https://github.com/owenrud/owenrud/blob/main/CSharp.png" width="100" height="100" style="padding:10px;">
-  <img src="https://github.com/owenrud/owenrud/blob/main/Java.png" width="100" height="100" style="padding:10px;">
-  <img src="https://github.com/owenrud/owenrud/blob/main/MySQL.png" width="100" height="100" style="padding:10px;">
-  <img src="https://github.com/owenrud/owenrud/blob/main/logoFlutter.png" width="100" height="100" style="padding:10px;">
+  <img src="https://github.com/owenrud/owenrud/blob/main/C+.png" width="100" height="100" style="margin:10px;">
+  <img src="https://github.com/owenrud/owenrud/blob/main/CSharp.png" width="100" height="100" style="margin:10px;">
+  <img src="https://github.com/owenrud/owenrud/blob/main/Java.png" width="100" height="100" style="margin:10px;">
+  <img src="https://github.com/owenrud/owenrud/blob/main/MySQL.png" width="100" height="100" style="margin:10px;">
+  <img src="https://github.com/owenrud/owenrud/blob/main/logoFlutter.png" width="100" height="100" style="margin:10px;">
 
-  <img src="https://github.com/owenrud/owenrud/blob/main/logoHTML.png" width="100" height="100" style="padding:10px;">
-  <img src="https://github.com/owenrud/owenrud/blob/main/logoNJS.png" width="100" height="100" style="padding:10px;">
-  <img src="https://github.com/owenrud/owenrud/blob/main/logoPHP.png" width="100" height="100" style="padding:10px;">
-  <img src="https://github.com/owenrud/owenrud/blob/main/logoPy.png" width="100" height="100" style="padding:10px;">
+  <img src="https://github.com/owenrud/owenrud/blob/main/logoHTML.png" width="100" height="100" style="margin:10px;">
+  <img src="https://github.com/owenrud/owenrud/blob/main/logoNJS.png" width="100" height="100" style="margin:10px;">
+  <img src="https://github.com/owenrud/owenrud/blob/main/logoPHP.png" width="100" height="100" style="margin:10px;">
+  <img src="https://github.com/owenrud/owenrud/blob/main/logoPy.png" width="100" height="100" style="margin:10px;">
 </p>
 
 

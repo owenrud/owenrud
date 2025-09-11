@@ -13,7 +13,7 @@ Fun fact:
 - Umamusume is my favorite anime.
 - I type faster in english rather than my native langauge(Indonesia)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=owenrud&show_icons=true&theme=cobalt)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=owenrud&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=owenrud&show_icons=true&theme=cobalt) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=owenrud&layout=compact)
 
 
 <!--

@@ -14,17 +14,36 @@ Fun fact:
 - I type faster in english rather than my native langauge(Indonesia)
 
 ## Proficient in these tools:
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
-  <img src="https://github.com/owenrud/owenrud/blob/main/C+.png" width="100" height="100">
-  <img src="https://github.com/owenrud/owenrud/blob/main/CSharp.png" width="100" height="100">
-  <img src="https://github.com/owenrud/owenrud/blob/main/Java.png" width="100" height="100">
-  <img src="https://github.com/owenrud/owenrud/blob/main/MySQL.png" width="100" height="100">
-  <img src="https://github.com/owenrud/owenrud/blob/main/logoFlutter.png" width="100" height="100">
-  <img src="https://github.com/owenrud/owenrud/blob/main/logoHTML.png" width="100" height="100">
-  <img src="https://github.com/owenrud/owenrud/blob/main/logoNJS.png" width="100" height="100">
-  <img src="https://github.com/owenrud/owenrud/blob/main/logoPHP.png" width="100" height="100">
-  <img src="https://github.com/owenrud/owenrud/blob/main/logoPy.png" width="100" height="100">
+<div align="center">
+  <div style="display: inline-block; padding: 10px;">
+    <img src="https://github.com/owenrud/owenrud/blob/main/C+.png" width="100" height="100">
+  </div>
+  <div style="display: inline-block; padding: 10px;">
+    <img src="https://github.com/owenrud/owenrud/blob/main/CSharp.png" width="100" height="100">
+  </div>
+  <div style="display: inline-block; padding: 10px;">
+    <img src="https://github.com/owenrud/owenrud/blob/main/Java.png" width="100" height="100">
+  </div>
+  <div style="display: inline-block; padding: 10px;">
+    <img src="https://github.com/owenrud/owenrud/blob/main/MySQL.png" width="100" height="100">
+  </div>
+  <div style="display: inline-block; padding: 10px;">
+    <img src="https://github.com/owenrud/owenrud/blob/main/logoFlutter.png" width="100" height="100">
+  </div>
+  <div style="display: inline-block; padding: 10px;">
+    <img src="https://github.com/owenrud/owenrud/blob/main/logoHTML.png" width="100" height="100">
+  </div>
+  <div style="display: inline-block; padding: 10px;">
+    <img src="https://github.com/owenrud/owenrud/blob/main/logoNJS.png" width="100" height="100">
+  </div>
+  <div style="display: inline-block; padding: 10px;">
+    <img src="https://github.com/owenrud/owenrud/blob/main/logoPHP.png" width="100" height="100">
+  </div>
+  <div style="display: inline-block; padding: 10px;">
+    <img src="https://github.com/owenrud/owenrud/blob/main/logoPy.png" width="100" height="100">
+  </div>
 </div>
+
 
 
 ## My Stats :

@@ -14,7 +14,7 @@ Fun fact:
 - I type faster in english rather than my native langauge(Indonesia)
 
 ## Proficient in these tools:
-<p align="center">
+<p align="center" style="margin:10px">
 <img src="https://github.com/owenrud/owenrud/blob/main/C+.png" width="50" height="50"><img src="https://github.com/owenrud/owenrud/blob/main/CSharp.png" width="50" height="50">
 <img src="https://github.com/owenrud/owenrud/blob/main/Java.png" width="50" height="50"><img src="https://github.com/owenrud/owenrud/blob/main/MySQL.png" width="50" height="50"><img src="https://github.com/owenrud/owenrud/blob/main/logoFlutter.png" width="50" height="50">
 </p>

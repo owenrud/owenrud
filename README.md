@@ -11,7 +11,7 @@ Also I'm currently improving my English Abilities, especially on speaking. so ea
 Fun fact:
 - Addicted to Horse Game.
 - Umamusume is my favorite anime.
-- I type faster in english rather than my native langauge(Indonesia)
+- I type faster in english rather than my native language (Indonesia)
 
 ## Proficient in these tools:
 <p align="center">
